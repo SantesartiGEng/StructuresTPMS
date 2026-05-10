@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Santesarti
+  given-names: Gianluca
+orcid: https://orcid.org/0000-0000-0000-0000
+title:SantesartiGEng/StructuresTPMS: StructuresTPMS
+version: v1.0
+date-released: 2026-05-10
