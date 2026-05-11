@@ -12,3 +12,6 @@ The optimisation algorithm involves:
 In the Case A, a TPMS structure analysed and described in the literature was optimised (see the description file TPMS_structures_StiffnessGrading_20260209.pdf) (date 09-02-2026).
 
 In the Case B, the optimisation was performed considering a femoral prosthesis as a possible application. Specifically, the generated structure has a relative density of 26% at the initial extremity, corresponding to the porosity of the internal trabecular bone tissue, and a relative density of 85% at the final extremity, corresponding to the porosity of the external cortical bone tissue. Subsequently, using the developed algorithm, the stiffness was optimised by imposing a linear variation between the two extremities, controlling the isovalue and the relative density (see the description file TPMS_structures_StiffnessGradingOpt_20260410.pdf) (date 10-04-2026).
+
+DOI
+https://doi.org/10.5281/zenodo.20114451
